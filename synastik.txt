@@ -15,14 +15,14 @@ UML схема - UML skeem
 Диаграмма классов - Klassiskeem
 Диаграмма взаимодействий - Koostooskeem
 Схема (диаграмма) баз данных- Andmebaasiskeem
-CASE-средства - 
+CASE-средства - CASE vahendid
 Архитектурная/проектная документация - Arhitektuurne / Projekti dokumentatsioon
 Техническая документация - Tehniline dokumentatsioon
 Пользовательская документация - Kasutaja dokumentatsioon
-Система управления версиями - 
-Локальное управление - 
-Централизованное управление - 
-Распределенное управление - 
+Система управления версиями - Versioonihaldussüsteem
+Локальное управление - Kohalik juhtimine
+Централизованное управление - Tsentraliseeritud juhtimine
+Распределенное управление - Harjutatud juhtimine
 Критический путь проекта - 
 Аутсорсинг - 
 Краудсорсинг - 
