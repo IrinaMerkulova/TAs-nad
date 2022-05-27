@@ -28,7 +28,7 @@ CASE-средства - CASE vahendid
 Краудсорсинг - ühishanged
 IT аудит - IT-audit
 ERP системы - ERP süsteemid
-Методики - 
+Методики - Metoodikat
 Каскадная модель - 
 Спиральная модель  - 
 Инкрементальная модель - 
