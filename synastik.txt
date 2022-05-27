@@ -42,4 +42,15 @@ Cистемы управления базами данных - Admebaasilisehald
 Качество - kvaliteet
 Валидирование - valideerimine
 Служба поддержки - kasutajatoe operaatoritel
-lisa veel 10 sõna
+
+Глобальный - globaalne
+Виртуальный - virtuaalne
+адрес интернет-ресурса - internetiressursiaadress
+покупатель - klient
+сервер - server
+веб хостинг - veebimajutuse
+PDU с блоками данных - andmeühikutega PDU
+Решение проблемы - Probleemi lahendamine
+аппаратное обеспечение - Riistvara
+Сетевые устройства - Võrguseadmed
+
