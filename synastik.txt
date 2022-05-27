@@ -26,7 +26,7 @@ CASE-средства - CASE-vahendid
 Критический путь проекта - projekti kriitilist teed
 Аутсорсинг - sissostmise
 Краудсорсинг - rahvahanke
-IT аудит - 
+IT аудит - IT juhataja
 ERP системы - 
 Методики - 
 Каскадная модель - 
