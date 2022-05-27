@@ -43,4 +43,15 @@ Cистемы управления базами данных - Andmebaasihalduss
 Качество - Omadus
 Валидирование - Valideerimine
 Служба поддержки - Tugiteenus
-lisa veel 10 sõna
+
+lisa veel 10 sõna:
+Доходы - Tulud
+Сопровождение - Hooldus
+Проектирование - Kavandamine
+Документ системных требований - Süsteemi nõuete dokument
+Руководство по установке - Haldusjuhend
+Риск - Risk
+Анализ - Anlüüs
+Жизненный цикл разработки системы - Süsteemiarenduse elutsükkel
+Данные - Andmed
+Целостность - Terviklus
