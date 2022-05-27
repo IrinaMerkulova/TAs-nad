@@ -49,3 +49,8 @@ lisa veel 10 sõna
 руководитель проекта - Projektijuht
 бизнес-план - äriplaan 
 потребности клиента - Kliendivajadus
+риск - Risk
+результат - Tulemus
+требования - Nõuded
+дизайн - disain
+тестирование - testimine
