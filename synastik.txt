@@ -44,3 +44,8 @@ Cистемы управления базами данных - Andmebaaside süs
 Валидирование - valideerimine
 Служба поддержки - Ametiaitamine
 lisa veel 10 sõna
+методом управления проектами - projektijuhtimise meetod
+анализ - analüüs 
+руководитель проекта - Projektijuht
+бизнес-план - äriplaan 
+потребности клиента - Kliendivajadus
