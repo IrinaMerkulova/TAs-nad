@@ -38,7 +38,7 @@ V-модель - v-mudel
 ERP системы - ERP süsteemid
 Cистемы управления базами данных - Andmebaaside süsteem
 Организация проекта - Projekti organiseerimine
-Обмен информацией - 
+Обмен информацией - teabevahetus
 Расходы - 
 Качество - 
 Валидирование - 
