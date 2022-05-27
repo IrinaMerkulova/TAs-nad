@@ -2,10 +2,10 @@
 Процесс разработки ПО - Tarkvara arendusprotsess
 Документация на ПО - Taravara dokumentatsioon
 Проект - Projekt
-ИТ проект - 
-Бизнес-проект - 
-Проект по разработке - 
-Проект по реализации - 
+ИТ проект - IT Project
+Бизнес-проект - Äriprojekt
+Проект по разработке - Arendusproject
+Проект по реализации - Rakendusprojekt
 Диаграмма Ганта - 
 UML схема - 
 Диаграмма прецедентов -
