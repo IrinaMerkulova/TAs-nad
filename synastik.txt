@@ -38,7 +38,7 @@ V-модель - V-muudel
 Cистемы управления базами данных - Andmebaasi haldussüsteemid
 Организация проекта - Projekti organisatsioon
 Обмен информацией - Teabevahetus
-Расходы - 
+Расходы - Kulud 
 Качество - 
 Валидирование - 
 Служба поддержки - 
