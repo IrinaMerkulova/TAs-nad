@@ -36,7 +36,7 @@ ERP системы - Terviklikud majandustarkvara lahendused
 V-модель - V-mudel
 Агильная модель - Agiilsemudel
 Cистемы управления базами данных - Admebaasilisehaldusesysteem
-Организация проекта - 
+Организация проекта - Projekti organisatsioon
 Обмен информацией - 
 Расходы - 
 Качество - 
