@@ -50,3 +50,4 @@ lisa veel 10 sõna
 Анализ ценности - Väärtusanalüüs
 Запланированные ценности - Plaanitud väärtused
 Реальные ценности - Tegelikud väärtused
+Структурирование проекта - Projekti struktureerimine
