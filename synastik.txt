@@ -2,7 +2,7 @@
 Процесс разработки ПО - Tarkvara arendusprotsess
 Документация на ПО - TA Dokumentatsioon
 Проект - Projekt
-ИТ проект - 
+ИТ проект - IT projekt
 Бизнес-проект - 
 Проект по разработке - 
 Проект по реализации - 
