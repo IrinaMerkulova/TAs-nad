@@ -5,7 +5,7 @@
 ИТ проект - IT Project
 Бизнес-проект - Äriprojekt
 Проект по разработке - Arendusproject
-Проект по реализации - Rakendusprojekt
+Проект по реализации - Teostusprojekt
 Диаграмма Ганта - 
 UML схема - 
 Диаграмма прецедентов -
