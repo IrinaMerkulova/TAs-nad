@@ -41,5 +41,5 @@ Cистемы управления базами данных - Andmebaasi haldus
 Расходы - Kulud
 Качество - Kvaliteet
 Валидирование - Valideerimine
-Служба поддержки - 
+Служба поддержки - Toetus teenust
 lisa veel 10 sõna
