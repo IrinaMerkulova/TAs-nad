@@ -43,9 +43,15 @@ Cистемы управления базами данных - Andmebaasi haldus
 Валидирование - Kinnitamine
 Служба поддержки - Tugiteenus
 
-Планирование - Planeerimine
+Планирование - Planeerimine / Kavandamine 
 Дизайн - Disain
 Тестирование - Testimine
 Требования - Nõuded
 Ресурсы - Ressursid
+
+Репозиторий - Hoidla
+Аппаратное обеспечение - Riistvara
+Система обработки данных - Andmetöötlussüsteem 
+Анализ - Analüüs
+Риск в проекте - Risk projektis
 lisa veel 10 sõna
