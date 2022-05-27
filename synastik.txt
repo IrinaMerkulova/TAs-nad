@@ -47,3 +47,4 @@ lisa veel 10 sõna
 Ресурсы - Ressursid
 Команда - Meeskond
 План коммуникаций - Kommunikatsiooniplaan
+Анализ ценности - Väärtusanalüüs
