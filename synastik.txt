@@ -40,6 +40,6 @@ Cистемы управления базами данных - Andmebaasi haldus
 Обмен информацией - Infovahetus
 Расходы - Kulud
 Качество - Kvaliteet
-Валидирование - 
+Валидирование - Valideerimine
 Служба поддержки - 
 lisa veel 10 sõna
