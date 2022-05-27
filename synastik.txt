@@ -48,4 +48,4 @@ lisa veel 10 sõna
 Техническим осмотром - Tehnilise ülevaatusega
 Тестированием цельности - Terviklikkuse testimisega
 Тестированием системы - Süsteemi testimisega
-
+функциональность - funktsionaalsus 
