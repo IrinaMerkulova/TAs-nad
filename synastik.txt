@@ -29,12 +29,12 @@ CASE-средства - CASE-vahendid
 IT аудит - IT juhataja
 ERP системы - Terviklikud majandustarkvara lahendused
 Методики - meetodid
-Каскадная модель - 
-Спиральная модель  - 
-Инкрементальная модель - 
-Прототированная модель - 
-V-модель - 
-Агильная модель - 
+Каскадная модель - Kaskaadmudel
+Спиральная модель  - Spiraalmudel
+Инкрементальная модель - inkrementaalimudel
+Прототированная модель - prototüüpilinemudel
+V-модель - V-mudel
+Агильная модель - Agiilsemudel
 Cистемы управления базами данных - 
 Организация проекта - 
 Обмен информацией - 
