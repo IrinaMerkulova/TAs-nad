@@ -48,3 +48,5 @@ lisa veel 10 sõna
 Команда - Meeskond
 План коммуникаций - Kommunikatsiooniplaan
 Анализ ценности - Väärtusanalüüs
+Запланированные ценности - Plaanitud väärtused
+Реальные ценности - Tegelikud väärtused
