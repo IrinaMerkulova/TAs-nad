@@ -36,7 +36,7 @@ ERP системы - Erp süsteemid
 V-модель - V-mudel
 Агильная модель - Agiilne mudel
 Cистемы управления базами данных - Andmebaasihaldussüsteem
-Организация проекта - 
+Организация проекта - Projekti korraldamine
 Обмен информацией - 
 Расходы - 
 Качество - 
