@@ -43,4 +43,15 @@ Cистемы управления базами данных - Andmebaasihalduss
 Качество - Omadus
 Валидирование - Valideerimine
 Служба поддержки - Tugiteenus
+
 lisa veel 10 sõna
+Проектные затраты - Projekti kulusid
+Анализ - Analüüs
+Целостность данных - Andmete terviklus
+Конфиденциальность данных - Andmete konfidentsiaalsus
+Сервис-ориентированная архитектура - Teenusorienteeritud arhitektuur
+Риск - Risk
+Отчётность-Aruandlus
+Данные - Andmed
+Заказчик - Tellija
+Сопровождение - Hooldus
