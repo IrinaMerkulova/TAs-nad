@@ -39,8 +39,8 @@ ERP системы - ERP süsteemid
 Cистемы управления базами данных - Andmebaaside süsteem
 Организация проекта - Projekti organiseerimine
 Обмен информацией - teabevahetus
-Расходы - 
-Качество - 
-Валидирование - 
-Служба поддержки - 
+Расходы - kulutused 
+Качество - kvaliteet
+Валидирование - valideerimine
+Служба поддержки - Ametiaitamine
 lisa veel 10 sõna
