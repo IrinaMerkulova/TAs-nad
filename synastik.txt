@@ -39,7 +39,7 @@ Cистемы управления базами данных - Admebaasilisehald
 Организация проекта - Projekti organisatsioon
 Обмен информацией - infovahetus
 Расходы - kulud
-Качество - 
+Качество - kvaliteet
 Валидирование - 
 Служба поддержки - 
 lisa veel 10 sõna
