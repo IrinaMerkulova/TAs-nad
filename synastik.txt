@@ -52,3 +52,4 @@ lisa veel 10 sõna
 Реальные ценности - Tegelikud väärtused
 Структурирование проекта - Projekti struktureerimine
 Цели - Eesmärgid
+Альтернативы - Alternatiivid
