@@ -25,7 +25,7 @@ CASE-средства - CASE-vahendid
 Распределенное управление - harjutatud juhtmine
 Критический путь проекта - projekti kriitilist teed
 Аутсорсинг - sissostmise
-Краудсорсинг - 
+Краудсорсинг - rahvahanke
 IT аудит - 
 ERP системы - 
 Методики - 
