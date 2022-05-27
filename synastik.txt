@@ -34,9 +34,8 @@ ERP системы - ERP süsteemid
 Инкрементальная модель - Inkrementaalne mudel
 Прототированная модель - Prototüübi mudel
 V-модель -  V-muudel
-Агильная модель - Agiilne mudel
-ERP системы - 
-Cистемы управления базами данных - 
+Агильная модель - Agiilne mudel 
+Cистемы управления базами данных - Andmebaasi haldussüsteemid
 Организация проекта - 
 Обмен информацией - 
 Расходы - 
