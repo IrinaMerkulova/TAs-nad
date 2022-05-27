@@ -37,9 +37,19 @@ V-модель - V-mudel
 Агильная модель - Agiilne mudel
 Cистемы управления базами данных - Andmebaasihaldusesüsteem
 Организация проекта - Projekti organisatsioon
-Обмен информацией - 
-Расходы - 
-Качество - 
-Валидирование - 
-Служба поддержки - 
-lisa veel 10 sõna
+Обмен информацией - Teabevahetus
+Расходы - Kulutused
+Качество - Kvaliteet
+Валидирование - Valideerimine
+Служба поддержки - Ametiaitamine
+Языки программирования - Programmeerimiskeeled
+Языки запросов - Päringudkeeled
+Графический дизайн - Graafiline disain
+Гипермедия - Hüpermeedia
+Взаимодействие - Vastasmõjud
+Группы моделей данных - Andmemudelite grupid
+Управляющие команды - Justkäsud
+Тестирование - Testimine
+Уровни тестирования - Testimise tasemed
+Требования - Nõuded
+
