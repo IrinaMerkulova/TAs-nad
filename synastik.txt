@@ -43,3 +43,15 @@ Cистемы управления базами данных - Andmebaasihalduss
 Валидирование - Valideerimine
 Служба поддержки - Toetus
 lisa veel 10 sõna
+eelanalüüs ja valik-предварительный анализ и выбор
+juurutamine-внедрение
+analüüs-анализ
+teostus-осуществление
+hooldamiskergus-простота в обслуживании
+funktsionaalsus-функциональность
+kasutajasõbralikus-удобство в использовании
+rikete esinemise sagedus
+töökindlus-надежность
+hooldatavus-ремонтнопригодность
+efektiivsus-эффективность
+ülekantavus-переносимость
