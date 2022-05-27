@@ -41,5 +41,5 @@ Cистемы управления базами данных - Admebaasilisehald
 Расходы - kulud
 Качество - kvaliteet
 Валидирование - valideerimine
-Служба поддержки - 
+Служба поддержки - kasutajatoe operaatoritel
 lisa veel 10 sõna
