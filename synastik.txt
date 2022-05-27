@@ -19,7 +19,7 @@ CASE-средства - Case vahendid
 Архитектурная/проектная документация - Arhitektuurne / projekti dokumentatsioon
 Техническая документация - Tehniline dokumentatsioon
 Пользовательская документация - Kasutaja dokumentatsioon
-Система управления версиями - 
+Система управления версиями - Versioonihaldussüsteem
 Локальное управление - 
 Централизованное управление - 
 Распределенное управление - 
