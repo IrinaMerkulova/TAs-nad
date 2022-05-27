@@ -45,3 +45,5 @@ Cистемы управления базами данных - Andmebaasi haldus
 lisa veel 10 sõna
 Сроки - Ajakava
 Ресурсы - Ressursid
+Команда - Meeskond
+
