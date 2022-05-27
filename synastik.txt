@@ -21,8 +21,8 @@ CASE-средства - CASE-vahendid
 Пользовательская документация - Kasutaja dokumentatsioon
 Система управления версиями - Versioonihaldussüsteem
 Локальное управление - Kohalik juhtimine
-Централизованное управление - 
-Распределенное управление - 
+Централизованное управление - Tsentrallseeritud juhtimine
+Распределенное управление - Kajutatud juhtimine
 Критический путь проекта - 
 Аутсорсинг - 
 Краудсорсинг - 
