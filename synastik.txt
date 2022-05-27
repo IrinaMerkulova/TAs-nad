@@ -44,3 +44,15 @@ Cистемы управления базами данных - Andmebaaside hald
 Валидирование - Valideerimine
 Служба поддержки - Tugiteenus
 lisa veel 10 sõna
+
+
+Инструменты разработки - Arendusvahendid
+Инженерные инструменты - Inseneri töövahendid
+Мультимедиа - Multimeedia
+Коммуникационное программное обеспечение - Suhtlustarkvara
+Описание программного обеспечения - Tarkvara kirjeldamine
+Итеративная разработка - Iteratiivne arendus
+Инкрементальная разработка - Inkrementaalne arendus
+Анализ требований - Nõuete analüüs
+Анализ выгоды и затрат - Tasuvuse analüüs
+Контроль доступа - Juurdepääsu kontroll
