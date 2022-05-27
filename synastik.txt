@@ -53,3 +53,4 @@ lisa veel 10 sõna
 Структурирование проекта - Projekti struktureerimine
 Цели - Eesmärgid
 Альтернативы - Alternatiivid
+Результаты компонентов - Osade tulemused
