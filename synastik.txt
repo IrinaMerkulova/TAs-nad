@@ -36,10 +36,10 @@ ERP системы - ERP süsteem
 V-модель - V-mudel
 Агильная модель - Agiilne mudel
 Cистемы управления базами данных - Andmebaasi haldussüsteemid
-Организация проекта - 
-Обмен информацией - 
-Расходы - 
-Качество - 
-Валидирование - 
-Служба поддержки - 
+Организация проекта - Projekti korraldamine
+Обмен информацией - Teabevahetus
+Расходы - Kulud 
+Качество - Kvaliteet
+Валидирование - Valideerimine
+Служба поддержки - Toetus
 lisa veel 10 sõna
