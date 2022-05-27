@@ -24,7 +24,7 @@ CASE-средства - CASE-vahendid
 Централизованное управление - tsentraliseeritud juhtmine
 Распределенное управление - harjutatud juhtmine
 Критический путь проекта - projekti kriitilist teed
-Аутсорсинг - 
+Аутсорсинг - sissostmise
 Краудсорсинг - 
 IT аудит - 
 ERP системы - 
