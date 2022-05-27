@@ -50,3 +50,6 @@ lisa veel 10 sõna
 Тестированием системы - Süsteemi testimisega
 функциональность - funktsionaalsus 
 надежность - töökindlus 
+эффективность - efektiivsus 
+доступность - kasutatavus  
+ремонтопригодность - hooldatavus 
