@@ -19,10 +19,10 @@ CASE-средства - CASE vahendid
 Архитектурная/проектная документация - Arhitektuurne / projekti dokumentatsioon
 Техническая документация - Tehniline dokumentatsioon
 Пользовательская документация - Kasutaja dokumentatsioon
-Система управления версиями - 
-Локальное управление - 
-Централизованное управление - 
-Распределенное управление - 
+Система управления версиями - versioonihaldussüstem
+Локальное управление - Kohalik juhtumine
+Централизованное управление - tsentraliseeritud juhtumine
+Распределенное управление - hajutatud juhtimine
 Критический путь проекта - 
 Аутсорсинг - 
 Краудсорсинг - 
