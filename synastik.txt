@@ -28,7 +28,7 @@ CASE-средства - CASE-vahendid
 Краудсорсинг - rahvahanke
 IT аудит - IT juhataja
 ERP системы - Terviklikud majandustarkvara lahendused
-Методики - 
+Методики - meetodid
 Каскадная модель - 
 Спиральная модель  - 
 Инкрементальная модель - 
