@@ -25,10 +25,10 @@ CASE-средства - CASE vahendid
 Распределенное управление - Hajutatud juhtimine
 Критический путь проекта - Projekti kriitilist teed
 Аутсорсинг - Allhankeid
-Краудсорсинг - Ühushanged
-IT аудит - 
-ERP системы - 
-Методики - 
+Краудсорсинг - Ühushankeid
+IT аудит - IT Audit
+ERP системы - ERP Süsteemid
+Методики - Metoodikad
 Каскадная модель - 
 Спиральная модель  - 
 Инкрементальная модель - 
