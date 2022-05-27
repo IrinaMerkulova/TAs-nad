@@ -43,3 +43,4 @@ Cистемы управления базами данных - Andmebaasi haldus
 Валидирование - Valideerima
 Служба поддержки - Toetus 
 lisa veel 10 sõna
+Команда - Meeskond
