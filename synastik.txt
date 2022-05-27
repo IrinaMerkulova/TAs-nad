@@ -42,4 +42,10 @@ Cистемы управления базами данных - Andmebaasi haldus
 Качество - Kvaliteet
 Валидирование - Kinnitamine
 Служба поддержки - Tugiteenus
+
+Планирование - Planeerimine
+Дизайн - Disain
+Тестирование - Testimine
+Требования - Nõuded
+Ресурсы - Ressursid
 lisa veel 10 sõna
