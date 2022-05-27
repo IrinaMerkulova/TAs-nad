@@ -43,3 +43,4 @@ Cистемы управления базами данных - Andmebaasi haldus
 Валидирование - Valideerimine
 Служба поддержки - Toetus teenust
 lisa veel 10 sõna
+Сроки - Ajakava
