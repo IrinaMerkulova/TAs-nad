@@ -35,12 +35,12 @@ ERP системы - ERP süsteemid
 Прототированная модель - Prototüüpimudel
 V-модель - V-mudel
 Агильная модель - Agiilne mudel
-ERP системы - 
-Cистемы управления базами данных - 
-Организация проекта - 
-Обмен информацией - 
-Расходы - 
-Качество - 
-Валидирование - 
-Служба поддержки - 
+ERP системы - ERP süsteemid
+Cистемы управления базами данных - Andmebaasihaldussüsteem
+Организация проекта - Projekti organisatsioon
+Обмен информацией - Teabevahetus
+Расходы - Kulud
+Качество - Omadus
+Валидирование - Valideerimine
+Служба поддержки - Tugiteenus
 lisa veel 10 sõna
