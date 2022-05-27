@@ -2,8 +2,8 @@
 Процесс разработки ПО - Tarkvara arendusprotsess
 Документация на ПО - Tarkvara dokumentatsioon
 Проект - Projekt
-ИТ проект - 
-Бизнес-проект - 
+ИТ проект - IT projekt 
+Бизнес-проект - Äriprojekt
 Проект по разработке - 
 Проект по реализации - 
 Диаграмма Ганта - 
