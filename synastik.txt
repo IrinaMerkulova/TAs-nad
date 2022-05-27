@@ -51,3 +51,4 @@ lisa veel 10 sõna
 Запланированные ценности - Plaanitud väärtused
 Реальные ценности - Tegelikud väärtused
 Структурирование проекта - Projekti struktureerimine
+Цели - Eesmärgid
