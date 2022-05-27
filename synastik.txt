@@ -23,12 +23,12 @@ CASE-средства - Case vahendid
 Локальное управление - Kohalik juhtimine
 Централизованное управление - Tsentraliseeritud juhtimine
 Распределенное управление - Hajutatud juhtimine
-Критический путь проекта - 
-Аутсорсинг - 
-Краудсорсинг - 
-IT аудит - 
-ERP системы - 
-Методики - 
+Критический путь проекта - proejkti kritiline tee
+Аутсорсинг - allhankeid
+Краудсорсинг - Rahvahange
+IT аудит - IT audit
+ERP системы - ERP süsteemid
+Методики - Metoodikad
 Каскадная модель - 
 Спиральная модель  - 
 Инкрементальная модель - 
