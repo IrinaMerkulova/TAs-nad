@@ -44,3 +44,8 @@ Cистемы управления базами данных - Andmebaasi haldus
 Служба поддержки - Toetus 
 lisa veel 10 sõna
 Команда - Meeskond
+Тестированием исходного кода- Lähtekoodi testimisega
+Техническим осмотром - Tehnilise ülevaatusega
+Тестированием цельности - Terviklikkuse testimisega
+Тестированием системы - Süsteemi testimisega
+
