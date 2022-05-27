@@ -18,7 +18,7 @@ UML схема - UML skeem
 CASE-средства - CASE-vahendid
 Архитектурная/проектная документация - Arhitektuurne/projektidokumentatsioon
 Техническая документация - Tehniline dokumentatsioon
-Пользовательская документация - 
+Пользовательская документация - Kasutaja dokumentatsioon
 Система управления версиями - 
 Локальное управление - 
 Централизованное управление - 
