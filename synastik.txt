@@ -1,6 +1,6 @@
 ﻿ПО - Tarkvara
 Процесс разработки ПО - Tarkvara arendusprotsess
-Документация на ПО - Taravara dokumentatsioon 
+Документация на ПО - Taravara dokumentatsioon
 Проект - Proekt
 ИТ проект - 
 Бизнес-проект - 
