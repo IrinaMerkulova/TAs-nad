@@ -42,4 +42,15 @@ Cистемы управления базами данных - Andmebaasi haldus
 Качество - Kvaliteet
 Валидирование - Valideerimine
 Служба поддержки - Toetus
-lisa veel 10 sõna
+
+количественные характеристики качества - kvantitatiivseid kvaliteedi tunnuseid
+качественные характеристики качества - kvalitatiivseid kvaliteedi tunnuseid
+удобство в использовании - kasutajasõbralikus
+простота в обслуживании - hooldamiskergus
+частота появления неисправностей - rikete esinemise sagedus
+функциональность - funktsionaalsus
+эффективность - efektiivsus
+скорость - kiirus
+экономичность - ökonoomsus
+однократная работа - ühekordne töö
+
