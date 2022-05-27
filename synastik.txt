@@ -35,7 +35,7 @@ ERP системы - Terviklikud majandustarkvara lahendused
 Прототированная модель - prototüüpilinemudel
 V-модель - V-mudel
 Агильная модель - Agiilsemudel
-Cистемы управления базами данных - 
+Cистемы управления базами данных - Admebaasilisehaldusesysteem
 Организация проекта - 
 Обмен информацией - 
 Расходы - 
