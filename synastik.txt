@@ -23,7 +23,7 @@ CASE-средства - CASE-vahendid
 Локальное управление - Kohalik juhtimine
 Централизованное управление - Tsentrallseeritud juhtimine
 Распределенное управление - Kajutatud juhtimine
-Критический путь проекта - 
+Критический путь проекта - Kriitilise projekti tee
 Аутсорсинг - 
 Краудсорсинг - 
 IT аудит - 
