@@ -46,4 +46,4 @@ lisa veel 10 sõna
 Сроки - Ajakava
 Ресурсы - Ressursid
 Команда - Meeskond
-
+План коммуникаций - Kommunikatsiooniplaan
