@@ -37,7 +37,7 @@ V-модель - V-mudel
 Агильная модель - Agiilne mudel
 Cистемы управления базами данных - Andmebaasihaldussüsteem
 Организация проекта - Projekti korraldamine
-Обмен информацией - 
+Обмен информацией - Teabe vahetamine
 Расходы - 
 Качество - 
 Валидирование - 
