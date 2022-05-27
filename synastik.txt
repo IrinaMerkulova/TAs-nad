@@ -49,3 +49,4 @@ lisa veel 10 sõna
 Тестированием цельности - Terviklikkuse testimisega
 Тестированием системы - Süsteemi testimisega
 функциональность - funktsionaalsus 
+надежность - töökindlus 
