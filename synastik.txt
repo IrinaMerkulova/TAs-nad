@@ -54,3 +54,4 @@ lisa veel 10 sõna
 Цели - Eesmärgid
 Альтернативы - Alternatiivid
 Результаты компонентов - Osade tulemused
+Руководство пользователя - kasutusjuhend
