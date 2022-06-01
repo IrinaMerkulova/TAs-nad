@@ -54,3 +54,7 @@ lisa veel 10 sõna
 информационные системы управления - juhtimisinfosüsteemid
 средства коммуникации - kommunikatsiooni
 реализации ИТ-стратегии - IT strateegia elluviimisest
+
+Руководство пользователя - Kasutusjuhend
+надежность - Töökindlus
+Внедрение - kasutusele võtmine, juurutamine
