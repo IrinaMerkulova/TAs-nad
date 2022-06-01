@@ -55,3 +55,4 @@ töökindlus-надежность
 hooldatavus-ремонтнопригодность
 efektiivsus-эффективность
 ülekantavus-переносимость
+.
