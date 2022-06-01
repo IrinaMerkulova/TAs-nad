@@ -52,4 +52,4 @@ Cистемы управления базами данных - Andmebaasihalduse
 Тестирование - Testimine
 Уровни тестирования - Testimise tasemed
 Требования - Nõuded
-
+Внедрение - juurutamine
