@@ -55,3 +55,6 @@ lisa veel 10 sõna:
 Жизненный цикл разработки системы - Süsteemiarenduse elutsükkel
 Данные - Andmed
 Целостность - Terviklus
+Töökindlus - Уверенность в работе
+Kasutusjuhend - Руководство
+Kasutusele võtmine - Внедрение
