@@ -54,3 +54,4 @@ Cистемы управления базами данных - Andmebaasihalduse
 Требования - Nõuded
 Внедрение - juurutamine
 Надежность - Töökindlus
+Руководство пользователя - kasutusjuhend
