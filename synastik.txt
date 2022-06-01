@@ -1,4 +1,4 @@
-ПО - Tarkvara
+﻿ПО - Tarkvara
 Процесс разработки ПО - Tarkvara arendusprotsess
 Документация на ПО - 
 Проект -
@@ -43,4 +43,16 @@ Cистемы управления базами данных -
 Качество - 
 Валидирование - 
 Служба поддержки - 
+
 lisa veel 10 sõna
+
+1.Проект по реализации - teostusprojekt
+2.Диаграмма прецедентов - kasutusmalliskeem
+3.Пользовательская документация - kasutaja dokumentatsion
+4.Kasutusjuhend - руководство
+5.Краудсорсинг - ühishange
+6.Koskmudel - каскадная модель
+7.Агильная модель - agiilne mudel
+8.Töökindlus - надежность
+9.Внедрение - kasutusele võtmine, juurutamine
+10.Andmehaldussüsteemid - СУБД
