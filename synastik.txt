@@ -54,4 +54,8 @@ Cистемы управления базами данных - Andmebaasi haldus
 Система обработки данных - Andmetöötlussüsteem 
 Анализ - Analüüs
 Риск в проекте - Risk projektis
+
+Надежность / Уверенность в работе - Töökindlus
+Руководство / Инструкция - Kasutusjuhend
+Внедрение - Kasutusele võtmine
 lisa veel 10 sõna
