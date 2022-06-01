@@ -1,58 +1,57 @@
-﻿ПО - Tarkvara
+﻿﻿ПО - Tarkvara
 Процесс разработки ПО - Tarkvara arendusprotsess
-Документация на ПО - 
-Проект -
-ИТ проект - 
-Бизнес-проект - 
-Проект по разработке - 
-Проект по реализации - 
-Диаграмма Ганта - 
-UML схема - 
-Диаграмма прецедентов -
-Диаграмма последовательности - 
-Диаграмма состояний - 
-Диаграмма активности - 
-Диаграмма классов - 
-Диаграмма взаимодействий - 
-Схема (диаграмма) баз данных- 
-CASE-средства - 
-Архитектурная/проектная документация - 
-Техническая документация - 
-Пользовательская документация - 
-Система управления версиями - 
-Локальное управление - 
-Централизованное управление - 
-Распределенное управление - 
-Критический путь проекта - 
-Аутсорсинг - 
-Краудсорсинг - 
-IT аудит - 
-ERP системы - 
-Методики - 
-Каскадная модель - 
-Спиральная модель  - 
-Инкрементальная модель - 
-Прототированная модель - 
-V-модель - 
-Агильная модель - 
-ERP системы - 
-Cистемы управления базами данных - 
-Организация проекта - 
-Обмен информацией - 
-Расходы - 
-Качество - 
-Валидирование - 
-Служба поддержки - 
+Документация на ПО - Tarkvara dokumentatsioon
+Проект - Projekt
+ИТ проект - IT Projekt
+Бизнес-проект - Äriprojekt
+Проект по разработке - Arendusprojekt
+Проект по реализации - Teostusprojekt
+Диаграмма Ганта - Gantti diagramm
+UML схема - UML skeem
+Диаграмма прецедентов - kasutusmalliskeem
+Диаграмма последовательности - jadaskeem
+Диаграмма состояний - olekuskeem
+Диаграмма активности - tegevusskeem
+Диаграмма классов - klassiskeem
+Диаграмма взаимодействий - koostööskeem
+Схема (диаграмма) баз данных- andmebaasiskeem
+CASE-средства - CASE vahendid
+Архитектурная/проектная документация - Arhitektuurne / projekti dokumentatsioon
+Техническая документация - Tehniline dokumentatsioon
+Пользовательская документация - Kasutaja dokumentatsioon
+Система управления версиями - versioonihaldussüstem
+Локальное управление - Kohalik juhtumine
+Централизованное управление - tsentraliseeritud juhtumine
+Распределенное управление - hajutatud juhtimine
+Критический путь проекта - Projekti kriitiline tee
+Аутсорсинг - allhankeid
+Краудсорсинг - ühishakeid
+IT аудит - IT audit
+ERP системы - ERP süsteemid
+Методики - Metoodid
+Каскадная модель - Koskmudel
+Спиральная модель  - Spiraalmudel
+Инкрементальная модель - Inkrementaalmudel
+Прототированная модель - Prototüüpiminemudel
+V-модель - V-mudel
+Агильная модель - Agiilne mudel
+ERP системы - ERP süstemid
+Cистемы управления базами данных - Andmebaasihaldussüstem
+Организация проекта - Projekt organisatsioon
+Обмен информацией - Teabevahetus
+Расходы - Kulud
+Качество - Omadus
+Валидирование - Valideerimine
+Служба поддержки - Tugiteenus
 
 lisa veel 10 sõna
-
-1.Проект по реализации - teostusprojekt
-2.Диаграмма прецедентов - kasutusmalliskeem
-3.Пользовательская документация - kasutaja dokumentatsion
-4.Kasutusjuhend - руководство
-5.Краудсорсинг - ühishange
-6.Koskmudel - каскадная модель
-7.Агильная модель - agiilne mudel
-8.Töökindlus - надежность
-9.Внедрение - kasutusele võtmine, juurutamine
-10.Andmehaldussüsteemid - СУБД
+Проектные затраты - Projekti kulusid
+Анализ - Analüüs
+Целостность данных - Andmete terviklus
+Конфиденциальность данных - Andmete konfidentsiaalsus
+Сервис-ориентированная архитектура - Teenusorienteeritud arhitektuur
+Риск - Risk
+Отчётность-Aruandlus
+Данные - Andmed
+Заказчик - Tellija
+Сопровождение - Hooldus
