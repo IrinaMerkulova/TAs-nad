@@ -45,6 +45,7 @@ Cистемы управления базами данных - Andmebaaside hald
 Служба поддержки - Tugiteenus
 Уверенность в работе - Töökindlus
 Внедрение - Kasutusele võtmine
+Руководство пользователя - kasutusjuhend
 lisa veel 10 sõna
 
 
