@@ -55,3 +55,9 @@ lisa veel 10 sõna
 Данные - Andmed
 Заказчик - Tellija
 Сопровождение - Hooldus
+
+Uus sõnad
+Надёжность - Töökindlus
+Руководствро пользователя - Kasutusjuhend
+Внедрение - kasutusele võtmine, juurutamine
+Пользовательская документация - Kasutaja dokumentatsioon
