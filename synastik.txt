@@ -44,6 +44,7 @@ Cистемы управления базами данных - Andmebaaside hald
 Валидирование - Valideerimine
 Служба поддержки - Tugiteenus
 Уверенность в работе - Töökindlus
+Внедрение - Kasutusele võtmine
 lisa veel 10 sõna
 
 
