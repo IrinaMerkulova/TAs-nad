@@ -53,4 +53,6 @@ Cистемы управления базами данных - Andmebaasi haldus
 скорость - kiirus
 экономичность - ökonoomsus
 однократная работа - ühekordne töö
-
+Руководство пользователя - Kasutusjuhend
+Надежность - Töökindlus
+Внедрение - Rakendamine
