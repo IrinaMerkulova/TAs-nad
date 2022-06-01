@@ -53,3 +53,4 @@ Cистемы управления базами данных - Andmebaasihalduse
 Уровни тестирования - Testimise tasemed
 Требования - Nõuded
 Внедрение - juurutamine
+Надежность - Töökindlus
