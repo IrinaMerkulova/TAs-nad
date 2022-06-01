@@ -43,6 +43,7 @@ Cистемы управления базами данных - Andmebaaside hald
 Качество - Kvaliteet
 Валидирование - Valideerimine
 Служба поддержки - Tugiteenus
+Уверенность в работе - Töökindlus
 lisa veel 10 sõna
 
 
