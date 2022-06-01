@@ -56,3 +56,4 @@ lisa veel 10 sõna
 Результаты компонентов - Osade tulemused
 Руководство пользователя - Kasutusjuhend
 Надежность - Töökindlus
+Внедрение - Kasutusele võtmine, juurutamine
