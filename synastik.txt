@@ -53,3 +53,7 @@ lisa veel 10 sõna
 эффективность - efektiivsus 
 доступность - kasutatavus  
 ремонтопригодность - hooldatavus 
+
+Руководство пользователя - kasutusjuhend
+Надёжность - töökindlus
+Внедрение - rakendamine
